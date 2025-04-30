@@ -2,7 +2,7 @@
 
 This project solves the Kaggle challenge [Detect AI vs Human Generated Images](https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images), it implements a powerful hybrid classifier that uses a **ConvNeXt CNN model** and **KMeans clustering** to classify images as either **AI-generated** or **Human-generated**.
 
-Achieved score: **92%+ F1** on Kaggle private leaderboard.
+Achieved score: **F1 of 0.92** on Kaggle private leaderboard.
 
 ---
 
